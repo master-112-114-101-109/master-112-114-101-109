@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prem</h1>
 <h3 align="center">A passionate devops engineer from India</h3>
 
-- 💬 Ask me about **Ansible,Terraform,AWS,Docker,Vault**
+
 - 📫 How to reach me **prakash.prem45+git@gmail.com**
 
 
